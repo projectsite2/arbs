@@ -2,7 +2,6 @@
 """
 Created on Mon Jan 13 16:00:47 2020
 
-@author: Duke Young
 """
 def books(bookmakers):
     c = bookmakers
