@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 27 21:44:05 2019
-  
-@author: Duke Young
+
 """
 
 # -*- coding: utf-8 -*-
