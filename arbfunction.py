@@ -2,7 +2,6 @@
 """
 Created on Sun Dec 22 09:00:51 2019
 
-@author: Duke Young
 """
 
 import mysql.connector
