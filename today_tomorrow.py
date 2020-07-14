@@ -23,3 +23,4 @@ def today_tomorrow1():
     pri=(x.strftime("%A")  +", " + num  + " " + x.strftime("%B"))
     pri2=(tomorrow.strftime("%A") + ", " + num2 + " " + tomorrow.strftime("%B"))
     return pri,pri2
+#Trial of work
